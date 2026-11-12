@@ -27,6 +27,7 @@
 
 ## 其他项目
 
+- [literag](https://github.com/fyj1233/literag) — 轻量级中文知识库问答：BM25 + BGE 双路召回 → RRF 融合 → CrossEncoder 精排，答案带可点击的引用溯源；`eval/` 内含三套语料的消融脚本与落盘结果，61 个离线单测，不配 API Key 也能端到端跑通。
 - [portal-game-demo](https://github.com/fyj1233/portal-game-demo) — Three.js 网页版「传送门」玩法：双门动量守恒、全表面放门、Render-to-Texture 实时透视、5 个解谜关卡，完全离线自包含。
 - [biyesheji](https://github.com/fyj1233/biyesheji) — Django 校园学习资源共享平台：资料上传去重、AI 摘要与标签生成、积分 / 评论 / 推荐。
 
